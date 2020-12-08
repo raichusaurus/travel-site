@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4aa3376-b634-404e-a17f-01e06e4a3051" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/assets/styles/base/_mixins.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/scripts/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/scripts/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/styles/modules/_large-hero.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/styles/modules/_large-hero.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/styles/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
@@ -49,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607277239494</updated>
       <workItem from="1607277240623" duration="1144000" />
-      <workItem from="1607280760299" duration="13335000" />
+      <workItem from="1607280760299" duration="17467000" />
     </task>
     <task id="LOCAL-00001" summary="Checking git commit and push in webstorm">
       <created>1607364168616</created>
@@ -79,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607369963458</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Auto refresh js and css without browser refresh&#10;auto refresh html with browser refresh&#10;change port and host so app can be accessible in network">
+      <created>1607370962135</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607370962135</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,7 +98,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Checking git commit and push in webstorm" />
     <MESSAGE value="Modify css for large hero div and buttons" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modify css for large hero div and buttons" />
+    <MESSAGE value="Auto refresh js and css without browser refresh&#10;auto refresh html with browser refresh&#10;change port and host so app can be accessible in network" />
+    <option name="LAST_COMMIT_MESSAGE" value="Auto refresh js and css without browser refresh&#10;auto refresh html with browser refresh&#10;change port and host so app can be accessible in network" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
