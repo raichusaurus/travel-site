@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f4aa3376-b634-404e-a17f-01e06e4a3051" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/styles/modules/_page-section.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/styles/modules/_page-section.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/styles/base/_global.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/styles/base/_global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/styles/base/_mixins.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/styles/base/_mixins.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/assets/styles/modules/_wrapper.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/styles/modules/_wrapper.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/assets/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/styles/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
@@ -49,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607277239494</updated>
       <workItem from="1607277240623" duration="1144000" />
-      <workItem from="1607280760299" duration="21612000" />
+      <workItem from="1607280760299" duration="25249000" />
     </task>
     <task id="LOCAL-00001" summary="Checking git commit and push in webstorm">
       <created>1607364168616</created>
@@ -100,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607536737393</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add headline modifier classes">
+      <created>1607538476007</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1607538476007</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,7 +120,8 @@
     <MESSAGE value="Auto refresh js and css without browser refresh&#10;auto refresh html with browser refresh&#10;change port and host so app can be accessible in network" />
     <MESSAGE value="Introduce mixins to the css and introduce responsive images to the html" />
     <MESSAGE value="Create re-usable blocks adding wrappers and page-sections to introduce horizantal and vertical margins to sections as needed without creating redundant code." />
-    <option name="LAST_COMMIT_MESSAGE" value="Create re-usable blocks adding wrappers and page-sections to introduce horizantal and vertical margins to sections as needed without creating redundant code." />
+    <MESSAGE value="Add headline modifier classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add headline modifier classes" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
