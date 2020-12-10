@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4aa3376-b634-404e-a17f-01e06e4a3051" name="Default Changelist" comment="" />
+    <list default="true" id="f4aa3376-b634-404e-a17f-01e06e4a3051" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +46,7 @@
       <updated>1607277239494</updated>
       <workItem from="1607277240623" duration="1144000" />
       <workItem from="1607280760299" duration="28156000" />
+      <workItem from="1607638683032" duration="530000" />
     </task>
     <task id="LOCAL-00001" summary="Checking git commit and push in webstorm">
       <created>1607364168616</created>
