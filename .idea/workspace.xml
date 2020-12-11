@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4a03b29-891d-4067-8d05-3bd7fe090f83" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/styles/modules/_feature-item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/styles/modules/_section-title.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/assets/styles/modules/_generic-content-container.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/styles/modules/_generic-content-container.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/assets/styles/modules/_row.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/styles/modules/_row.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/assets/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/styles/styles.css" afterDir="false" />
@@ -13,6 +16,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectLevelVcsManager">
