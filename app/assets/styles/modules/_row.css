@@ -105,10 +105,12 @@
         @mixin atLarge {
             display: flex;
         }
+
+        & > div {
+            float: none;
+            display: flex;
+        }
     }
 
-    & > div {
-        float: none;
-        display: flex;
-    }
+
 }
