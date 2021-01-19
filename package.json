@@ -20,6 +20,7 @@
   "homepage": "https://github.com/raichusaurus/travel-site#readme",
   "dependencies": {
     "autoprefixer": "^10.0.4",
+    "lazysizes": "^5.3.0",
     "lodash": "^4.17.20",
     "normalize.css": "^8.0.1",
     "postcss-nested": "^5.0.2"
