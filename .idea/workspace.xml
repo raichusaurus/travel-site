@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4a03b29-891d-4067-8d05-3bd7fe090f83" name="Default Changelist" comment="">
+    <list default="true" id="c4a03b29-891d-4067-8d05-3bd7fe090f83" name="Default Changelist" comment="Completed the modal overlay">
+      <change afterPath="$PROJECT_DIR$/app/assets/scripts/modules/Modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/styles/modules/_modal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/styles/modules/_social-icons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cssdialects.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/assets/scripts/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/scripts/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/styles/base/_global.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/styles/base/_global.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/styles/modules/_primary-nav.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/styles/modules/_primary-nav.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/styles/modules/_site-header.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/styles/modules/_site-header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/styles/modules/_section-title.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/styles/modules/_section-title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/styles/modules/_wrapper.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/styles/modules/_wrapper.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/styles/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +41,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="IntelliLang.Configuration" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -87,6 +97,7 @@
       <workItem from="1609801639967" duration="116000" />
       <workItem from="1609801777439" duration="315000" />
       <workItem from="1609888290659" duration="4264000" />
+      <workItem from="1611009877608" duration="7061000" />
     </task>
     <task id="LOCAL-00006" summary="Completed the reveal on scroll behavior">
       <created>1609808282426</created>
@@ -101,6 +112,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="removing workspace.xml" />
     <MESSAGE value="Clean up test branches" />
@@ -108,6 +130,11 @@
     <MESSAGE value="Merged footer branchinto master" />
     <MESSAGE value="Set up initial framework for clicking hamburger in mobile/small screen view" />
     <MESSAGE value="Completed the reveal on scroll behavior" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed the reveal on scroll behavior" />
+    <MESSAGE value="Completed the modal overlay" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed the modal overlay" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
